@@ -14,6 +14,31 @@
 		8B8D7CD229513C7900FDCD74 /* USA_SpendingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CD129513C7900FDCD74 /* USA_SpendingTests.swift */; };
 		8B8D7CDC29513C7900FDCD74 /* USA_SpendingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CDB29513C7900FDCD74 /* USA_SpendingUITests.swift */; };
 		8B8D7CDE29513C7900FDCD74 /* USA_SpendingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CDD29513C7900FDCD74 /* USA_SpendingUITestsLaunchTests.swift */; };
+		8B8D7CEC29513D7100FDCD74 /* AgencyOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CEB29513D7100FDCD74 /* AgencyOverview.swift */; };
+		8B8D7CEE2951403900FDCD74 /* Awards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CED2951403900FDCD74 /* Awards.swift */; };
+		8B8D7CF0295140E600FDCD74 /* NewAwardCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CEF295140E600FDCD74 /* NewAwardCount.swift */; };
+		8B8D7CF3295141C300FDCD74 /* DEFC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CF2295141C300FDCD74 /* DEFC.swift */; };
+		8B8D7CF72951473500FDCD74 /* AwardTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CF62951473500FDCD74 /* AwardTypes.swift */; };
+		8B8D7CF929514BCD00FDCD74 /* BudgetFunctionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CF829514BCD00FDCD74 /* BudgetFunctionList.swift */; };
+		8B8D7CFB29514C2E00FDCD74 /* PageMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CFA29514C2E00FDCD74 /* PageMetadata.swift */; };
+		8B8D7CFD29514C9A00FDCD74 /* BudgetFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7CFC29514C9A00FDCD74 /* BudgetFunction.swift */; };
+		8B8D7D0229514E3100FDCD74 /* BudgetFunctionCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D0129514E3100FDCD74 /* BudgetFunctionCount.swift */; };
+		8B8D7D0429514FA200FDCD74 /* BudgetaryResources.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D0329514FA200FDCD74 /* BudgetaryResources.swift */; };
+		8B8D7D0629514FF800FDCD74 /* AgencyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D0529514FF800FDCD74 /* AgencyData.swift */; };
+		8B8D7D082951512F00FDCD74 /* ObligationAndPeriod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D072951512F00FDCD74 /* ObligationAndPeriod.swift */; };
+		8B8D7D0A295151B500FDCD74 /* FederalAccountList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D09295151B500FDCD74 /* FederalAccountList.swift */; };
+		8B8D7D0C295154C800FDCD74 /* FederalAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D0B295154C800FDCD74 /* FederalAccount.swift */; };
+		8B8D7D0E295155AB00FDCD74 /* TreasuryAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D0D295155AB00FDCD74 /* TreasuryAccount.swift */; };
+		8B8D7D102951568C00FDCD74 /* Totals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D0F2951568C00FDCD74 /* Totals.swift */; };
+		8B8D7D122951574C00FDCD74 /* FederalAccountCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D112951574C00FDCD74 /* FederalAccountCount.swift */; };
+		8B8D7D1429515C0900FDCD74 /* ObjectClassList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1329515C0900FDCD74 /* ObjectClassList.swift */; };
+		8B8D7D1629515C2600FDCD74 /* ObjectClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1529515C2600FDCD74 /* ObjectClass.swift */; };
+		8B8D7D1829515C6500FDCD74 /* MajorObjectClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1729515C6500FDCD74 /* MajorObjectClass.swift */; };
+		8B8D7D1A29515E9800FDCD74 /* ObjectClassCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1929515E9800FDCD74 /* ObjectClassCount.swift */; };
+		8B8D7D1C29515F2D00FDCD74 /* ObligationsByAwardCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1B29515F2D00FDCD74 /* ObligationsByAwardCategory.swift */; };
+		8B8D7D1E29515FD000FDCD74 /* ObligationSubtotals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1D29515FD000FDCD74 /* ObligationSubtotals.swift */; };
+		8B8D7D202951602700FDCD74 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D1F2951602700FDCD74 /* Category.swift */; };
+		8B8D7D222951633500FDCD74 /* ProgramActivityList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D7D212951633500FDCD74 /* ProgramActivityList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +70,31 @@
 		8B8D7CD729513C7900FDCD74 /* USA SpendingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "USA SpendingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B8D7CDB29513C7900FDCD74 /* USA_SpendingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USA_SpendingUITests.swift; sourceTree = "<group>"; };
 		8B8D7CDD29513C7900FDCD74 /* USA_SpendingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USA_SpendingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8B8D7CEB29513D7100FDCD74 /* AgencyOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgencyOverview.swift; sourceTree = "<group>"; };
+		8B8D7CED2951403900FDCD74 /* Awards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Awards.swift; sourceTree = "<group>"; };
+		8B8D7CEF295140E600FDCD74 /* NewAwardCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewAwardCount.swift; sourceTree = "<group>"; };
+		8B8D7CF2295141C300FDCD74 /* DEFC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DEFC.swift; sourceTree = "<group>"; };
+		8B8D7CF62951473500FDCD74 /* AwardTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardTypes.swift; sourceTree = "<group>"; };
+		8B8D7CF829514BCD00FDCD74 /* BudgetFunctionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetFunctionList.swift; sourceTree = "<group>"; };
+		8B8D7CFA29514C2E00FDCD74 /* PageMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageMetadata.swift; sourceTree = "<group>"; };
+		8B8D7CFC29514C9A00FDCD74 /* BudgetFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetFunction.swift; sourceTree = "<group>"; };
+		8B8D7D0129514E3100FDCD74 /* BudgetFunctionCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetFunctionCount.swift; sourceTree = "<group>"; };
+		8B8D7D0329514FA200FDCD74 /* BudgetaryResources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetaryResources.swift; sourceTree = "<group>"; };
+		8B8D7D0529514FF800FDCD74 /* AgencyData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgencyData.swift; sourceTree = "<group>"; };
+		8B8D7D072951512F00FDCD74 /* ObligationAndPeriod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObligationAndPeriod.swift; sourceTree = "<group>"; };
+		8B8D7D09295151B500FDCD74 /* FederalAccountList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FederalAccountList.swift; sourceTree = "<group>"; };
+		8B8D7D0B295154C800FDCD74 /* FederalAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FederalAccount.swift; sourceTree = "<group>"; };
+		8B8D7D0D295155AB00FDCD74 /* TreasuryAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreasuryAccount.swift; sourceTree = "<group>"; };
+		8B8D7D0F2951568C00FDCD74 /* Totals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Totals.swift; sourceTree = "<group>"; };
+		8B8D7D112951574C00FDCD74 /* FederalAccountCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FederalAccountCount.swift; sourceTree = "<group>"; };
+		8B8D7D1329515C0900FDCD74 /* ObjectClassList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectClassList.swift; sourceTree = "<group>"; };
+		8B8D7D1529515C2600FDCD74 /* ObjectClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectClass.swift; sourceTree = "<group>"; };
+		8B8D7D1729515C6500FDCD74 /* MajorObjectClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorObjectClass.swift; sourceTree = "<group>"; };
+		8B8D7D1929515E9800FDCD74 /* ObjectClassCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectClassCount.swift; sourceTree = "<group>"; };
+		8B8D7D1B29515F2D00FDCD74 /* ObligationsByAwardCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObligationsByAwardCategory.swift; sourceTree = "<group>"; };
+		8B8D7D1D29515FD000FDCD74 /* ObligationSubtotals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObligationSubtotals.swift; sourceTree = "<group>"; };
+		8B8D7D1F2951602700FDCD74 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		8B8D7D212951633500FDCD74 /* ProgramActivityList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramActivityList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +145,7 @@
 		8B8D7CBE29513C7800FDCD74 /* USA Spending */ = {
 			isa = PBXGroup;
 			children = (
+				8B8D7CEA29513D4100FDCD74 /* models */,
 				8B8D7CBF29513C7800FDCD74 /* USA_SpendingApp.swift */,
 				8B8D7CC129513C7800FDCD74 /* ContentView.swift */,
 				8B8D7CC329513C7900FDCD74 /* Assets.xcassets */,
@@ -127,6 +178,70 @@
 				8B8D7CDD29513C7900FDCD74 /* USA_SpendingUITestsLaunchTests.swift */,
 			);
 			path = "USA SpendingUITests";
+			sourceTree = "<group>";
+		};
+		8B8D7CEA29513D4100FDCD74 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				8B8D7CF4295141D900FDCD74 /* Client */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		8B8D7CF12951416D00FDCD74 /* Responses */ = {
+			isa = PBXGroup;
+			children = (
+				8B8D7CEB29513D7100FDCD74 /* AgencyOverview.swift */,
+				8B8D7CED2951403900FDCD74 /* Awards.swift */,
+				8B8D7CEF295140E600FDCD74 /* NewAwardCount.swift */,
+				8B8D7CF829514BCD00FDCD74 /* BudgetFunctionList.swift */,
+				8B8D7D0129514E3100FDCD74 /* BudgetFunctionCount.swift */,
+				8B8D7D0329514FA200FDCD74 /* BudgetaryResources.swift */,
+				8B8D7D09295151B500FDCD74 /* FederalAccountList.swift */,
+				8B8D7D112951574C00FDCD74 /* FederalAccountCount.swift */,
+				8B8D7D1329515C0900FDCD74 /* ObjectClassList.swift */,
+				8B8D7D1929515E9800FDCD74 /* ObjectClassCount.swift */,
+				8B8D7D1B29515F2D00FDCD74 /* ObligationsByAwardCategory.swift */,
+				8B8D7D212951633500FDCD74 /* ProgramActivityList.swift */,
+			);
+			path = Responses;
+			sourceTree = "<group>";
+		};
+		8B8D7CF4295141D900FDCD74 /* Client */ = {
+			isa = PBXGroup;
+			children = (
+				8B8D7D0029514D9F00FDCD74 /* Components */,
+				8B8D7CF12951416D00FDCD74 /* Responses */,
+				8B8D7CF52951472800FDCD74 /* Enums */,
+			);
+			path = Client;
+			sourceTree = "<group>";
+		};
+		8B8D7CF52951472800FDCD74 /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				8B8D7CF62951473500FDCD74 /* AwardTypes.swift */,
+				8B8D7D1F2951602700FDCD74 /* Category.swift */,
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		8B8D7D0029514D9F00FDCD74 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				8B8D7CF2295141C300FDCD74 /* DEFC.swift */,
+				8B8D7CFA29514C2E00FDCD74 /* PageMetadata.swift */,
+				8B8D7CFC29514C9A00FDCD74 /* BudgetFunction.swift */,
+				8B8D7D0529514FF800FDCD74 /* AgencyData.swift */,
+				8B8D7D072951512F00FDCD74 /* ObligationAndPeriod.swift */,
+				8B8D7D0B295154C800FDCD74 /* FederalAccount.swift */,
+				8B8D7D0D295155AB00FDCD74 /* TreasuryAccount.swift */,
+				8B8D7D0F2951568C00FDCD74 /* Totals.swift */,
+				8B8D7D1529515C2600FDCD74 /* ObjectClass.swift */,
+				8B8D7D1729515C6500FDCD74 /* MajorObjectClass.swift */,
+				8B8D7D1D29515FD000FDCD74 /* ObligationSubtotals.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +374,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B8D7D102951568C00FDCD74 /* Totals.swift in Sources */,
+				8B8D7D1629515C2600FDCD74 /* ObjectClass.swift in Sources */,
+				8B8D7CF929514BCD00FDCD74 /* BudgetFunctionList.swift in Sources */,
+				8B8D7CF0295140E600FDCD74 /* NewAwardCount.swift in Sources */,
+				8B8D7D0E295155AB00FDCD74 /* TreasuryAccount.swift in Sources */,
+				8B8D7D122951574C00FDCD74 /* FederalAccountCount.swift in Sources */,
 				8B8D7CC229513C7800FDCD74 /* ContentView.swift in Sources */,
+				8B8D7CF72951473500FDCD74 /* AwardTypes.swift in Sources */,
+				8B8D7CEE2951403900FDCD74 /* Awards.swift in Sources */,
+				8B8D7D202951602700FDCD74 /* Category.swift in Sources */,
+				8B8D7CF3295141C300FDCD74 /* DEFC.swift in Sources */,
+				8B8D7D082951512F00FDCD74 /* ObligationAndPeriod.swift in Sources */,
+				8B8D7CFD29514C9A00FDCD74 /* BudgetFunction.swift in Sources */,
 				8B8D7CC029513C7800FDCD74 /* USA_SpendingApp.swift in Sources */,
+				8B8D7CFB29514C2E00FDCD74 /* PageMetadata.swift in Sources */,
+				8B8D7D0429514FA200FDCD74 /* BudgetaryResources.swift in Sources */,
+				8B8D7D0629514FF800FDCD74 /* AgencyData.swift in Sources */,
+				8B8D7D1A29515E9800FDCD74 /* ObjectClassCount.swift in Sources */,
+				8B8D7D1E29515FD000FDCD74 /* ObligationSubtotals.swift in Sources */,
+				8B8D7D0A295151B500FDCD74 /* FederalAccountList.swift in Sources */,
+				8B8D7CEC29513D7100FDCD74 /* AgencyOverview.swift in Sources */,
+				8B8D7D222951633500FDCD74 /* ProgramActivityList.swift in Sources */,
+				8B8D7D1429515C0900FDCD74 /* ObjectClassList.swift in Sources */,
+				8B8D7D1C29515F2D00FDCD74 /* ObligationsByAwardCategory.swift in Sources */,
+				8B8D7D0229514E3100FDCD74 /* BudgetFunctionCount.swift in Sources */,
+				8B8D7D0C295154C800FDCD74 /* FederalAccount.swift in Sources */,
+				8B8D7D1829515C6500FDCD74 /* MajorObjectClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
